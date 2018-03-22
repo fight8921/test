@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * 链接数据库测试mysql,ok表示成功连接
- * 
+ *
  * @author Administrator
  */
 public class Mysql_DB
